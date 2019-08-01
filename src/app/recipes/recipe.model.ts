@@ -1,3 +1,3 @@
 export class Recipe {
-    constructor(public name: string, public desc: string, public imgPath: string) { }
+    constructor(public name: string, public description: string, public imagePath: string) { }
 }
